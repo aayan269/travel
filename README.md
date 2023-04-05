@@ -10,18 +10,19 @@ backend - npx nodemon index.js
 <h1>Landing Page/Login page</h1>
 
 page-1
-(https:![Screenshot 2023-04-05 120617](https://user-images.githubusercontent.com/105919878/230003469-acf16956-6adb-4fbc-ac04-d592e9da4bd3.png)
+[Screenshot 2023-04-05 120617](https://user-images.githubusercontent.com/105919878/230003469-acf16956-6adb-4fbc-ac04-d592e9da4bd3.png)
 //ibb.co/zNffN9T)
 
 page-2
-![Screenshot (152)](https://user-images.githubusercontent.com/97114184/208631511-1d1eddda-61f4-491c-a9aa-cd019253fa59.png)
+![Screenshot 2023-04-05 120706](https://user-images.githubusercontent.com/105919878/230003810-01a4f8c7-c30f-4b5d-9bf7-ca3bc6357da0.png)
+
 
 page-3
-![Screenshot (153)](https://user-images.githubusercontent.com/97114184/208631520-03b4515f-d8d2-43f1-be1d-77ae4cc889da.png)
+![Screenshot (![Screenshot 2023-04-05 120738](https://user-images.githubusercontent.com/105919878/230003911-92f70ba8-6a7d-486b-9ade-7b97e0f924d1.png)
 
 page-4
-![Screenshot (154)](https://user-images.githubusercontent.com/97114184/208631524-9a264cb0-dbe2-45f3-b834-5edb9f1c410b.png)
 
+![Screenshot 2023-04-05 120801](https://user-images.githubusercontent.com/105919878/230003958-4ef17428-4982-4bff-84db-4729d4920b86.png)
 
 
 <h2>Tech Stach</h2>

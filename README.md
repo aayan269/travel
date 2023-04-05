@@ -1,4 +1,4 @@
-- Description- It was a Coding Assignment and duration of assignment was 24 hr. I build an #Application in which I implemented both frontend and backend code, on the frontend side I created 4 - 5 pages including Login/Signup and ob backend side I created 2 collection (user,travel)
+- Description- It was a Coding Assignment and duration of assignment was 24 hr. I build an #Application in which I implemented both frontend and backend code, on the frontend side I created 4 - 5 pages including Login/Signup and except Login and Signup page all other routes are protected and on backend side I created 2 collection (user,travel)
 
 - About #Application -: here, user can create travel plan, I truly believe that for planning to make it true, you need to feel it.  
 

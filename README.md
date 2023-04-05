@@ -3,8 +3,8 @@
 - About #Application -: here, user can create travel plan, I truly believe that for planning to make it true, you need to feel it.  
 
 - Command to start -: 
-Frontend - npm start
-backend - npx nodemon index.js
+   - Frontend - npm start
+   - backend - npx nodemon index.js
 
 
 <h1>Landing Page/Login page</h1>

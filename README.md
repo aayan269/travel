@@ -10,15 +10,15 @@ backend - npx nodemon index.js
 <h1>Landing Page/Login page</h1>
 
 page-1
-[Screenshot 2023-04-05 120617](https://user-images.githubusercontent.com/105919878/230003469-acf16956-6adb-4fbc-ac04-d592e9da4bd3.png)
-//ibb.co/zNffN9T)
+![Screenshot 2023-04-05 120617](https://user-images.githubusercontent.com/105919878/230004134-d0ac3ae5-6efd-4333-974d-165457d415c7.png)
+
 
 page-2
 ![Screenshot 2023-04-05 120706](https://user-images.githubusercontent.com/105919878/230003810-01a4f8c7-c30f-4b5d-9bf7-ca3bc6357da0.png)
 
 
 page-3
-![Screenshot (![Screenshot 2023-04-05 120738](https://user-images.githubusercontent.com/105919878/230003911-92f70ba8-6a7d-486b-9ade-7b97e0f924d1.png)
+![Screenshot 2023-04-05 120738](https://user-images.githubusercontent.com/105919878/230003911-92f70ba8-6a7d-486b-9ade-7b97e0f924d1.png)
 
 page-4
 
